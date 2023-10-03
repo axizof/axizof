@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Répertoire où vous souhaitez créer les répertoires
-base_directory="/chemin/vers/votre/repertoire"
+base_directory="/var/www/html/hack/"
 
 # Fonction pour générer un nom aléatoire
 generate_random_name() {
